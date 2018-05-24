@@ -1,8 +1,8 @@
 # Indah Puspita
 Mahasiswa PPKU IPB
 
-*Asrama Mahasiswa PPKU IPB*   
-*+62 822-8566-3947*         
+*Asrama Mahasiswa PPKU IPB* \
+*+62 822-8566-3947* \
 *indahpuspitaa17@gmail.com*
 
 ## **Pendidikan**
