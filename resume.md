@@ -7,13 +7,13 @@ Mahasiswa PPKU IPB
 
 ## **Pendidikan**
 ## SMPN 1 Lubuk Alung
-Juli 2011-Juni 2014
+Juli 2011 -- Juni 2014
 
 ## SMAN 1 Lubuk Alung
-Juli 2014-Juni 2017
+Juli 2014 -- Juni 2017
 
 ## Institut Pertanian Bogor — S.komp
-September 2017-Sekarang: Sarjana Komputer 
+September 2017 -- Sekarang : Sarjana Komputer 
 
 ## **Pelatihan**
 
@@ -22,9 +22,9 @@ September 2017-Sekarang: Sarjana Komputer
 - Sanggar Sarumpun Minang
 
 ## **Keahlian**
-- Android Studio  — Basics
-- Program C  — Beginner
-- HTML, CSS, PHP  — Basics
+- Android Studio  -- Basics
+- Program C  -- Beginner
+- HTML, CSS, PHP  -- Basics
 
 ## **Hobi**
 Travelling, Membaca, Menulis, Belajar, Menari, Menonton dan Olahraga
